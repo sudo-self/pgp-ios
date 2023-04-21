@@ -15,21 +15,6 @@ PGPro can encrypt and decrypt messages as well as manage all your OpenPGP keys. 
   <img src="./fastlane/screenshots/en-US/iPhone%2011%20Pro%20Max-4-DetailView.png" width="200">
 </p>
 
-## Contribution
-
-You are welcome to contribute. Please create a [Pull Request](https://github.com/lucanaef/PGPro/pulls).
-
-## Changelog
-
-See [https://pgpro.app/changelog/](https://pgpro.app/changelog/).
-
-## License
-
-This project is licensed under the GNU GENERAL PUBLIC LICENSE - see the [LICENSE](./LICENSE) file for details.
-
-## Security Audit
-
-The cryptographic library used by PGPro, [ObjectivePGP](https://objectivepgp.com/), has undergone a complete security audit from [Cure53](https://cure53.de/).
 
 ## Acknowledgment
 
