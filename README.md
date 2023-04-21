@@ -16,12 +16,7 @@ PGPro can encrypt and decrypt messages as well as manage all your OpenPGP keys. 
 </p>
 
 
-## Acknowledgment
-
-This project uses the [ObjectivePGP](https://objectivepgp.com/) library developed by [Marcin Krzyżanowski](https://krzyzanowskim.com/).
-Thereby it uses software developed by the [OpenSSL](http://www.openssl.org/) Project for use in the [OpenSSL Toolkit](https://www.openssl.org/).
 
 
-## Author
-
+### Author
 [Luca Näf](https://naef.lu)
